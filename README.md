@@ -19,7 +19,7 @@ This command will run all migrations.
 ```bash
 php artisan migrate
 ```
-This commad will create dummy data in your database.
+This commad will create dummy data in the database.
 ```bash
 php artisan db:seed
 ```
